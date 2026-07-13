@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1929-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sakshiipandey/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
