@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakshiipandey/LeetCode/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/sakshiipandey/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2937-make-three-strings-equal](https://github.com/sakshiipandey/LeetCode/tree/master/2937-make-three-strings-equal) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sakshiipandey/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
