@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sakshiipandey/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sakshiipandey/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sakshiipandey/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiipandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sakshiipandey/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sakshiipandey/LeetCode/tree/master/0283-move-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sakshiipandey/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/sakshiipandey/LeetCode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
