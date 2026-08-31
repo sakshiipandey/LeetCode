@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sakshiipandey/LeetCode/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0605-can-place-flowers](https://github.com/sakshiipandey/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sakshiipandey/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sakshiipandey/LeetCode/tree/master/0704-binary-search) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakshiipandey/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/sakshiipandey/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sakshiipandey/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sakshiipandey/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sakshiipandey/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/sakshiipandey/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakshiipandey/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sakshiipandey/LeetCode/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/sakshiipandey/LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/sakshiipandey/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakshiipandey/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sakshiipandey/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/sakshiipandey/LeetCode/tree/master/0704-binary-search) |
 ## Pigeonhole Principle
 |  |
