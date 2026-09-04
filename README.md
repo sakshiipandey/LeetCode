@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sakshiipandey/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/sakshiipandey/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sakshiipandey/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/sakshiipandey/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sakshiipandey/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sakshiipandey/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/sakshiipandey/LeetCode/tree/master/0819-most-common-word) |
+| [0944-delete-columns-to-make-sorted](https://github.com/sakshiipandey/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/sakshiipandey/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2937-make-three-strings-equal](https://github.com/sakshiipandey/LeetCode/tree/master/2937-make-three-strings-equal) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sakshiipandey/LeetCode/tree/master/0506-relative-ranks) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/sakshiipandey/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
