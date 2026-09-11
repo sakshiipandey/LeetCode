@@ -1,6 +1,6 @@
 class Solution {
 
-    public int calcNextidx(int nums[], int curr) {
+    public int calcNextIdx(int nums[], int curr) {
         int next = curr;
         int seq = nums[curr];
 
@@ -20,6 +20,10 @@ class Solution {
 
         for(int i = 0; i < nums.length; i = i + 1) {
 
+            if(nums[i] == 0) {
+                continue;
+            }
+
             Set<Integer> set = new HashSet<>();
             set.add(i);
 
@@ -28,16 +32,19 @@ class Solution {
 
             while(true) {
 
-                int next = calcNextidx(nums, curr);
+                int next = calcNextIdx(nums, curr);
 
+                // direction change
+                if((nums[curr] > 0) != isPos) {
+                    break;
+                }
+
+                // one element cycle
                 if(next == curr) {
                     break;
                 }
 
-                if((nums[next] > 0) != isPos) {
-                    break;
-                }
-
+                // cycle found
                 if(set.contains(next)) {
                     return true;
                 }
@@ -45,9 +52,29 @@ class Solution {
                 set.add(next);
                 curr = next;
             }
+
+            // mark visited elements
+            curr = i;
+
+            if(isPos) {
+
+                while(nums[curr] > 0) {
+                    int next = calcNextIdx(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
+                }
+
+            } 
+            else {
+
+                while(nums[curr] < 0) {
+                    int next = calcNextIdx(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
+                }
+            }
         }
 
         return false;
     }
 }
-
