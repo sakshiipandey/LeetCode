@@ -24,37 +24,63 @@ class Solution {
                 continue;
             }
 
-            Set<Integer> set = new HashSet<>();
-            set.add(i);
-
             boolean isPos = nums[i] > 0;
-            int curr = i;
+
+            int slow = i;
+            int fast = i;
 
             while(true) {
 
-                int next = calcNextIdx(nums, curr);
+                // slow moves one step
+                int nextSlow = calcNextIdx(nums, slow);
 
-                // direction change
-                if((nums[curr] > 0) != isPos) {
+                if(nextSlow == slow) {
                     break;
                 }
 
-                // one element cycle
-                if(next == curr) {
+                if((nums[nextSlow] > 0) != isPos) {
                     break;
                 }
+
+                slow = nextSlow;
+
+
+                // fast moves first step
+                int nextFast = calcNextIdx(nums, fast);
+
+                if(nextFast == fast) {
+                    break;
+                }
+
+                if((nums[nextFast] > 0) != isPos) {
+                    break;
+                }
+
+                fast = nextFast;
+
+
+                // fast moves second step
+                nextFast = calcNextIdx(nums, fast);
+
+                if(nextFast == fast) {
+                    break;
+                }
+
+                if((nums[nextFast] > 0) != isPos) {
+                    break;
+                }
+
+                fast = nextFast;
+
 
                 // cycle found
-                if(set.contains(next)) {
+                if(slow == fast) {
                     return true;
                 }
-
-                set.add(next);
-                curr = next;
             }
 
-            // mark visited elements
-            curr = i;
+            // Mark this path as visited
+            int curr = i;
 
             if(isPos) {
 
@@ -62,15 +88,22 @@ class Solution {
                     int next = calcNextIdx(nums, curr);
                     nums[curr] = 0;
                     curr = next;
+
+                    if(curr == i) {
+                        break;
+                    }
                 }
 
-            } 
-            else {
+            } else {
 
                 while(nums[curr] < 0) {
                     int next = calcNextIdx(nums, curr);
                     nums[curr] = 0;
                     curr = next;
+
+                    if(curr == i) {
+                        break;
+                    }
                 }
             }
         }
