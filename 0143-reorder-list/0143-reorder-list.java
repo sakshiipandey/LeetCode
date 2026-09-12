@@ -1,43 +1,41 @@
 class Solution {
+
+    public ListNode reverseLL(ListNode curr) {
+        ListNode prev = null;
+
+        while(curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        return prev;
+    }
+
     public void reorderList(ListNode head) {
-        LinkedList<Integer> record = new LinkedList<>();
+        ListNode slow = head,
+                 fast = head;
 
-        ListNode last = head;
-
-        while (last.next != null) {
-            last = last.next;
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        ListNode left = head;
-        ListNode right = last;
+        ListNode mid = reverseLL(slow.next);
+        slow.next = null;
 
-        while (left != right && left.next != right) {
-            record.add(left.val);
-            record.add(right.val);
+        ListNode p1 = head;
 
-            left = left.next;
+        while(p1 != null && mid != null) {
+            ListNode p1Next = p1.next,
+                     midNext = mid.next;
 
-            ListNode prev = head;
+            p1.next = mid;
+            mid.next = p1Next;
 
-            while (prev.next != right) {
-                prev = prev.next;
-            }
-
-            right = prev;
-        }
-
-        if (left == right) {
-            record.add(left.val);
-        } else {
-            record.add(left.val);
-            record.add(right.val);
-        }
-
-        ListNode curr = head;
-
-        for (int val : record) {
-            curr.val = val;
-            curr = curr.next;
+            p1 = p1Next;
+            mid = midNext;
         }
     }
 }
