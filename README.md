@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sakshiipandey/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/sakshiipandey/LeetCode/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/sakshiipandey/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sakshiipandey/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshiipandey/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sakshiipandey/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiipandey/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/sakshiipandey/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sakshiipandey/LeetCode/tree/master/0796-rotate-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sakshiipandey/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sakshiipandey/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/sakshiipandey/LeetCode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
