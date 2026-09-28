@@ -39,7 +39,7 @@ Therefore, the k-beauty is 2.
 - &quot;00&quot; from &quot;43<u><strong>00</strong></u>43&quot;: 0 is not a divisor of 430043.
 - &quot;04&quot; from &quot;430<u><strong>04</strong></u>3&quot;: 4 is not a divisor of 430043.
 - &quot;43&quot; from &quot;4300<u><strong>43</strong></u>&quot;: 43 is a divisor of 430043.
-Therefore, the k-beauty is 2.
+Therefore, the k-beauty is 2 using brute force.
 </pre>
 
 <p>&nbsp;</p>
