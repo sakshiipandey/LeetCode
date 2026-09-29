@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sakshiipandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sakshiipandey/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sakshiipandey/LeetCode/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/sakshiipandey/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sakshiipandey/LeetCode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/sakshiipandey/LeetCode/tree/master/0819-most-common-word) |
