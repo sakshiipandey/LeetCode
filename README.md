@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1652-defuse-the-bomb](https://github.com/sakshiipandey/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakshiipandey/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiipandey/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sakshiipandey/LeetCode/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sakshiipandey/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sakshiipandey/LeetCode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshiipandey/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sakshiipandey/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshiipandey/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sakshiipandey/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -418,4 +422,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sakshiipandey/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
