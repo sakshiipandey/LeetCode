@@ -4,21 +4,20 @@ class Solution {
         char[] arr = s.toCharArray();
 
         int i = 0;
-        int j = arr.length - 1;
+        int j = s.length() - 1;
 
-        while(i < j) {
+        while (i < j) {
 
-            if(!(arr[i] == 'a' || arr[i] == 'e' || arr[i] == 'i' ||
-                 arr[i] == 'o' || arr[i] == 'u' ||
-                 arr[i] == 'A' || arr[i] == 'E' || arr[i] == 'I' ||
-                 arr[i] == 'O' || arr[i] == 'U')) {
+            char ch = arr[i];
+            char ch1 = arr[j];
+
+            if (!(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
+                  ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U')) {
                 i++;
             }
 
-            else if(!(arr[j] == 'a' || arr[j] == 'e' || arr[j] == 'i' ||
-                      arr[j] == 'o' || arr[j] == 'u' ||
-                      arr[j] == 'A' || arr[j] == 'E' || arr[j] == 'I' ||
-                      arr[j] == 'O' || arr[j] == 'U')) {
+            else if (!(ch1 == 'a' || ch1 == 'e' || ch1 == 'i' || ch1 == 'o' || ch1 == 'u' ||
+                       ch1 == 'A' || ch1 == 'E' || ch1 == 'I' || ch1 == 'O' || ch1 == 'U')) {
                 j--;
             }
 
