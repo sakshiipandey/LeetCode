@@ -22,14 +22,14 @@ public boolean book(int startTime, int endTime) {
             counts.put(startTime, counts.get(startTime) - 1);
             counts.put(endTime, counts.get(endTime) + 1);
 
-            // Remove zero-count entries
-            if (counts.get(startTime) == 0) {
-                counts.remove(startTime);
-            }
+            // // Remove zero-count entries
+            // if (counts.get(startTime) == 0) {
+            //     counts.remove(startTime);
+            // }
 
-            if (counts.get(endTime) == 0) {
-                counts.remove(endTime);
-            }
+            // if (counts.get(endTime) == 0) {
+            //     counts.remove(endTime);
+            // }
 
             return false;
         }
