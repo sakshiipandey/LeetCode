@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakshiipandey/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshiipandey/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sakshiipandey/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3169-count-days-without-meetings](https://github.com/sakshiipandey/LeetCode/tree/master/3169-count-days-without-meetings) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakshiipandey/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3169-count-days-without-meetings](https://github.com/sakshiipandey/LeetCode/tree/master/3169-count-days-without-meetings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sakshiipandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sakshiipandey/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/sakshiipandey/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sakshiipandey/LeetCode/tree/master/0506-relative-ranks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
