@@ -1,15 +1,11 @@
 class SummaryRanges {
-    List<Integer> list;
+    TreeSet<Integer> list;
 
     public SummaryRanges() {
-        list = new ArrayList<Integer>();
+        list = new TreeSet<Integer>();
     }
 
     public void addNum(int value) {
-        if (list.contains(value)) {
-            return;
-        }
-
         list.add(value);
     }
 
@@ -18,32 +14,29 @@ class SummaryRanges {
             return new int[][] {};
         }
 
-        Collections.sort(list);
-
-        // initially
         Integer left = null;
         Integer right = null;
 
         List<int[]> res = new ArrayList<>();
 
-        for (int i = 0; i < list.size(); i++) {
+        for (int val : list) {
             if (left == null && right == null) {
-                left = list.get(i);
-                right = list.get(i);
-            } 
-            else if (list.get(i) == right + 1) {
-                right = list.get(i);
-            } 
+                left = val;
+                right = val;
+            }
+            else if (val == right + 1) {
+                right = val;
+            }
             else {
                 res.add(new int[] {left, right});
-                left = list.get(i);
-                right = list.get(i);
+
+                left = val;
+                right = val;
             }
         }
 
         res.add(new int[] {left, right});
 
-        // list -> 2D array
         int[][] ans = new int[res.size()][2];
 
         for (int i = 0; i < res.size(); i++) {
@@ -53,7 +46,6 @@ class SummaryRanges {
         return ans;
     }
 }
-
 
 
 /**
