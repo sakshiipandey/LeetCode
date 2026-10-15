@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sakshiipandey/LeetCode/tree/master/0075-sort-colors) |
 ## Sweep Line
 |  |
 | ------- |
@@ -527,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sakshiipandey/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
