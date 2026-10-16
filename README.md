@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/sakshiipandey/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1051-height-checker](https://github.com/sakshiipandey/LeetCode/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/sakshiipandey/LeetCode/tree/master/1094-car-pooling) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sakshiipandey/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshiipandey/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/sakshiipandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sakshiipandey/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
