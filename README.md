@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sakshiipandey/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sakshiipandey/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakshiipandey/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sakshiipandey/LeetCode/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sakshiipandey/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/sakshiipandey/LeetCode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshiipandey/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sakshiipandey/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sakshiipandey/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0435-non-overlapping-intervals) |
