@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakshiipandey/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sakshiipandey/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1652-defuse-the-bomb](https://github.com/sakshiipandey/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sakshiipandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/sakshiipandey/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sakshiipandey/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sakshiipandey/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sakshiipandey/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/sakshiipandey/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sakshiipandey/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
