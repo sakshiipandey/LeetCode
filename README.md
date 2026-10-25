@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sakshiipandey/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sakshiipandey/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sakshiipandey/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sakshiipandey/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sakshiipandey/LeetCode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshiipandey/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sakshiipandey/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshiipandey/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshiipandey/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sakshiipandey/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -614,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sakshiipandey/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
