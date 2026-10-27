@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/sakshiipandey/LeetCode/tree/master/3169-count-days-without-meetings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sakshiipandey/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sakshiipandey/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sakshiipandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sakshiipandey/LeetCode/tree/master/0048-rotate-image) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sakshiipandey/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sakshiipandey/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sakshiipandey/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Data Stream
 |  |
 | ------- |
@@ -622,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sakshiipandey/LeetCode/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sakshiipandey/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
