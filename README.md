@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshiipandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sakshiipandey/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1590-make-sum-divisible-by-p](https://github.com/sakshiipandey/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/sakshiipandey/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/sakshiipandey/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/sakshiipandey/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1763-longest-nice-substring](https://github.com/sakshiipandey/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshiipandey/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sakshiipandey/LeetCode/tree/master/1094-car-pooling) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sakshiipandey/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshiipandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/sakshiipandey/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/sakshiipandey/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
