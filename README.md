@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/sakshiipandey/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/sakshiipandey/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/sakshiipandey/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/sakshiipandey/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sakshiipandey/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshiipandey/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/sakshiipandey/LeetCode/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sakshiipandey/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshiipandey/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sakshiipandey/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sakshiipandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshiipandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
