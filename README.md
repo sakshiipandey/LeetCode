@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sakshiipandey/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/sakshiipandey/LeetCode/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sakshiipandey/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sakshiipandey/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sakshiipandey/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sakshiipandey/LeetCode/tree/master/0202-happy-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshiipandey/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/sakshiipandey/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sakshiipandey/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sakshiipandey/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/sakshiipandey/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshiipandey/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
