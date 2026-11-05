@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakshiipandey/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshiipandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sakshiipandey/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1590-make-sum-divisible-by-p](https://github.com/sakshiipandey/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sakshiipandey/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sakshiipandey/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/sakshiipandey/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakshiipandey/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshiipandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/sakshiipandey/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshiipandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
