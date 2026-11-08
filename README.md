@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sakshiipandey/LeetCode/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/sakshiipandey/LeetCode/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/sakshiipandey/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sakshiipandey/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sakshiipandey/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sakshiipandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sakshiipandey/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshiipandey/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/sakshiipandey/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sakshiipandey/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2937-make-three-strings-equal](https://github.com/sakshiipandey/LeetCode/tree/master/2937-make-three-strings-equal) |
 | [3498-reverse-degree-of-a-string](https://github.com/sakshiipandey/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sakshiipandey/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshiipandey/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sakshiipandey/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
