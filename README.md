@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshiipandey/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshiipandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sakshiipandey/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1590-make-sum-divisible-by-p](https://github.com/sakshiipandey/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakshiipandey/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sakshiipandey/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sakshiipandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
