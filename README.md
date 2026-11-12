@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sakshiipandey/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sakshiipandey/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sakshiipandey/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/0978-longest-turbulent-subarray) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sakshiipandey/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakshiipandey/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshiipandey/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sakshiipandey/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sakshiipandey/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sakshiipandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sakshiipandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshiipandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sakshiipandey/LeetCode/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2866-beautiful-towers-ii](https://github.com/sakshiipandey/LeetCode/tree/master/2866-beautiful-towers-ii) |
