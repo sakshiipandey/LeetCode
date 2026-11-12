@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshiipandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2321-maximum-score-of-spliced-array](https://github.com/sakshiipandey/LeetCode/tree/master/2321-maximum-score-of-spliced-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshiipandey/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/sakshiipandey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sakshiipandey/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakshiipandey/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshiipandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [3169-count-days-without-meetings](https://github.com/sakshiipandey/LeetCode/tree/master/3169-count-days-without-meetings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sakshiipandey/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshiipandey/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sakshiipandey/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2866-beautiful-towers-ii](https://github.com/sakshiipandey/LeetCode/tree/master/2866-beautiful-towers-ii) |
 ## Greedy
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [2866-beautiful-towers-ii](https://github.com/sakshiipandey/LeetCode/tree/master/2866-beautiful-towers-ii) |
 ## Dynamic Programming
 |  |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshiipandey/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshiipandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -580,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sakshiipandey/LeetCode/tree/master/0506-relative-ranks) |
 | [1094-car-pooling](https://github.com/sakshiipandey/LeetCode/tree/master/1094-car-pooling) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sakshiipandey/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Longest Increasing Subsequence
 |  |
