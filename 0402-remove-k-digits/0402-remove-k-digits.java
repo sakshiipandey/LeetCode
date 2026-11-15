@@ -1,5 +1,5 @@
 class Solution {
-    //monotonic increasing
+    
     public String removeKdigits(String nums, int k) {
         Stack<Character> st = new Stack<>();
         for(int i=0; i<nums.length(); i++){
