@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sakshiipandey/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sakshiipandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/sakshiipandey/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/sakshiipandey/LeetCode/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshiipandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sakshiipandey/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sakshiipandey/LeetCode/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/sakshiipandey/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshiipandey/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sakshiipandey/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/sakshiipandey/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/sakshiipandey/LeetCode/tree/master/0732-my-calendar-iii) |
+| [0901-online-stock-span](https://github.com/sakshiipandey/LeetCode/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0901-online-stock-span](https://github.com/sakshiipandey/LeetCode/tree/master/0901-online-stock-span) |
 ## Bubble Sort
 |  |
 | ------- |
