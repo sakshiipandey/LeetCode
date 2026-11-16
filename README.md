@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sakshiipandey/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/sakshiipandey/LeetCode/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/sakshiipandey/LeetCode/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sakshiipandey/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sakshiipandey/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sakshiipandey/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/sakshiipandey/LeetCode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sakshiipandey/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sakshiipandey/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sakshiipandey/LeetCode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sakshiipandey/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sakshiipandey/LeetCode/tree/master/0739-daily-temperatures) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakshiipandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0456-132-pattern](https://github.com/sakshiipandey/LeetCode/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakshiipandey/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/sakshiipandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/sakshiipandey/LeetCode/tree/master/0704-binary-search) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sakshiipandey/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0456-132-pattern](https://github.com/sakshiipandey/LeetCode/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/sakshiipandey/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sakshiipandey/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/sakshiipandey/LeetCode/tree/master/0732-my-calendar-iii) |
