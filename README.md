@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sakshiipandey/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sakshiipandey/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sakshiipandey/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshiipandey/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshiipandey/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sakshiipandey/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshiipandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sakshiipandey/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sakshiipandey/LeetCode/tree/master/2454-next-greater-element-iv) |
+| [3934-smallest-unique-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -651,10 +654,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sakshiipandey/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sakshiipandey/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Minimax
 |  |
 | ------- |
@@ -751,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshiipandey/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sakshiipandey/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
